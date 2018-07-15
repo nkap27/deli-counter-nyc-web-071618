@@ -9,6 +9,7 @@ def line(katz_deli)
     katz_deli.each do |client|
       string.push("#{counter}. #{client}")
       counter += 1
+    end
   end
   return string
 end
