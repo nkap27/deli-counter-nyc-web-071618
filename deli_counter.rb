@@ -7,7 +7,7 @@ def line(katz_deli)
     string = "The line is currently: "
     counter = 1
     katz_deli.each do |client|
-      string = string + "#{counter}. #{client}")
+      string = string + "#{counter}. #{client}"
       counter += 1
     end
     return string
