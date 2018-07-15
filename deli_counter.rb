@@ -11,7 +11,6 @@ def line(katz_deli)
       counter += 1
     end
   end
-  return string
 end
 
 # Write your code here.
