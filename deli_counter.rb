@@ -10,6 +10,7 @@ def line(katz_deli)
       string = string + "#{counter}. #{client}"
       counter += 1
     end
+    return string
   end
 end
 
