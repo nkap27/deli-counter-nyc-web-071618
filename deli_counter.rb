@@ -10,8 +10,8 @@ def line(katz_deli)
       string.push("#{counter}. #{client}")
       counter += 1
     end
+    return string
   end
-  return string
 end
 
 # Write your code here.
