@@ -1,1 +1,2 @@
-# Write your code here.
+def line
+end# Write your code here.
